@@ -1,0 +1,27 @@
+{
+  "name": "programming-google-analytics",
+  "version": "1.0.0",
+  "description": "learn how to program Google Analytics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/codesanook/programming-google-analytics.git"
+  },
+  "keywords": [
+    "Google",
+    "Analytics"
+  ],
+  "author": "codesanook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codesanook/programming-google-analytics/issues"
+  },
+  "homepage": "https://github.com/codesanook/programming-google-analytics#readme",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4"
+  }
+}
