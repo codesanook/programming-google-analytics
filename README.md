@@ -2,4 +2,4 @@
 
 source code for codesanook.com article
 
-[เขียนคำสั่ง tracking พฤติกรรมของผู้ใช้ด้วย Google Analytics JavaScript library](https://github.com/codesanook/programming-google-analytics)
+[เขียนคำสั่ง tracking พฤติกรรมของผู้ใช้ด้วย Google Analytics JavaScript lhttp://codesanook.com/post/details/programming-google-analytics-javascript-library-to-track-user-behavior/45ibrary]()
